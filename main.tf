@@ -75,3 +75,5 @@ data "google_container_cluster" "main" {
   # Location (region)
   location = var.GOOGLE_REGION
 }
+# Trigger Infracost workflow
+
